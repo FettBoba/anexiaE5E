@@ -1,4 +1,4 @@
 
-exports.helloanx = function () {
+exports.helloax = function () {
 console.log("Hello Anexia");
 }
