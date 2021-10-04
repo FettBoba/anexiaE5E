@@ -1,5 +1,5 @@
 # most simple test function for Anexia e5e
 
-exports.hello_anx = function () {
+exports.helloanx = function () {
 console.log(“Hello Anexia”);
 }
