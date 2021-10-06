@@ -1,4 +1,5 @@
-exports.helloax = (event, context) => {
-console.log("Hello Anexia");
-console.log("und dem ganzen Erdkreis");
+exports.helloax = (name) => {
+     console.log("hello " + name);
 }
+hello();
+hello("CSS", "HTML", "AAA", 4);
