@@ -1,4 +1,5 @@
-exports.myData = (event, context) => {
-//   console.log(myData()); 
-}  
-// return 911; 
+exports.hello = (event, context) => {
+     console.log("hello ");
+}
+hello();
+hello("CSS", "HTML", "AAA", 4);
