@@ -1,4 +1,4 @@
 exports.myData = (event, context) => {
-   console.log(myData()); 
+//   console.log(myData()); 
 }  
 // return 911; 
