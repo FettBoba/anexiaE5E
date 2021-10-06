@@ -1,5 +1,5 @@
 exports.printText = (event, context) => {
   
-    console.log("BlaBla);
+    console.log("BlaBla");
     
 };
