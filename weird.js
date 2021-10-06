@@ -1,5 +1,5 @@
-exports.hello = (event, context) => {
+exports.helloy = (event, context) => {
      console.log("hello ");
 }
-hello();
-hello("CSS", "HTML", "AAA", 4);
+helloy();
+helloy("CSS", "HTML", "AAA", 4);
